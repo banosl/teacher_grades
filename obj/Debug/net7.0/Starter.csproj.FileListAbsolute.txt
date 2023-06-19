@@ -1,0 +1,15 @@
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.deps.json
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.dll
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.pdb
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.csproj.AssemblyReference.cache
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.dll
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/refint/Starter.dll
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.pdb
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/leobanos/random_projects/c_sharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/ref/Starter.dll
